@@ -1,0 +1,19 @@
+.header{
+    background-color: wheat;
+}
+
+.footer{
+    background-color:rgb(49, 37, 37);
+}
+
+.container{
+    background-color: pink;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.admin{
+    font-size: 40px;
+    color: rgba(255, 68, 0, 0.726);
+}
